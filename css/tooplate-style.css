@@ -25,7 +25,7 @@ p {
 	background-color: #a2cf8d;
 	padding: 12px 18px;
 	color: #fff;
-	font-size: 11px;
+	font-size: 15px;
 	font-weight: 500;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -203,7 +203,7 @@ bootstrap.min.css:5
 }
 
 .slide-caption span {
-	font-size: 14px;
+	font-size: 19px;
 	text-transform: uppercase;
 }
 
@@ -214,7 +214,7 @@ bootstrap.min.css:5
 }
 
 .slide-caption p {
-	font-size: 13px;
+	font-size: 17px;
 	letter-spacing: 0.25px;
 	line-height: 24px;
 }
